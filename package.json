@@ -26,7 +26,4 @@
     "morgan": "^1.10.0",
     "openchain": "^0.2.4"
   },
-  "devDependencies": {
-    "jshint": "^2.12.0"
-  }
 }
